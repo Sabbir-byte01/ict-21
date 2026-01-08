@@ -1,4 +1,4 @@
-package ict._22.ClassNames;
+package ict._21.ClassNames;
 
 public class SumClass {
 
